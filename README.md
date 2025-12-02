@@ -10,13 +10,11 @@
 </p>
 
 <div align="center">
-  <a href="https://bun.com/docs">Documentation</a>
+  <a href="https://ascendant.sh/docs">Documentation</a>
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-  <a href="https://discord.com/invite/CXdq2DP29u">Discord</a>
+  <a href="https://discord.gg/nchfJt9U">Ascendant Discord</a>
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-  <a href="https://github.com/oven-sh/bun/issues/new">Issues</a>
-  <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-  <a href="https://github.com/oven-sh/bun/issues/159">Roadmap</a>
+  <a href="https://github.com/ascendant-sh/pun/issues/new">Issues</a>
   <br />
 </div>
 
